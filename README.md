@@ -1,0 +1,2 @@
+# Rate-Calculator
+Rate calculator
