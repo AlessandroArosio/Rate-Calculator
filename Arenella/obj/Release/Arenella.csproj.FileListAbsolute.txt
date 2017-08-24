@@ -1,0 +1,8 @@
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\bin\Release\Arenella.exe.config
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\bin\Release\Arenella.exe
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\bin\Release\Arenella.pdb
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Release\Arenella.Form1.resources
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Release\Arenella.Properties.Resources.resources
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Release\Arenella.csproj.GenerateResource.Cache
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Release\Arenella.exe
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Release\Arenella.pdb

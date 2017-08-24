@@ -1,0 +1,18 @@
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\bin\Debug\Arenella.exe.config
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\bin\Debug\Arenella.exe
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\bin\Debug\Arenella.pdb
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.csprojResolveAssemblyReference.cache
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.Form1.resources
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.Properties.Resources.resources
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.csproj.GenerateResource.Cache
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.exe
+C:\Users\alessandro arosio\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.pdb
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\bin\Debug\Arenella.exe.config
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\bin\Debug\Arenella.exe
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\bin\Debug\Arenella.pdb
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.csprojResolveAssemblyReference.cache
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.Form1.resources
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.Properties.Resources.resources
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.csproj.GenerateResource.Cache
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.exe
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Arenella\Arenella\obj\Debug\Arenella.pdb
